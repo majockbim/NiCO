@@ -1,0 +1,29 @@
+# admin
+NiCO.md
+
+# go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/nico
+*.test
+*.out
+coverage.txt
+profile.out
+
+# IDE and Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# NiCO specific local data files (User progress/analytics)
+*.json
+state.json
